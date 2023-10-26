@@ -1,5 +1,5 @@
 # MoleculeDiffusionGAN
-<img src="method.jpg" alt="alt text" title="Overview" width="300"/>
+<img src="method.jpg" alt="alt text" title="Overview" width="600"/>
 WIP implementation of a discriminator-guided diffusion model for molecule generation. 
 
 
