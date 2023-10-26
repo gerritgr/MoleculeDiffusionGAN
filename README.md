@@ -6,7 +6,9 @@ WIP implementation of a discriminator-guided diffusion model for molecule genera
 
 
 ## Results
+<div style="text-align:center;">
 <img src="results.jpg" alt="alt text" title="Overview" width="400"/>
+</div>
 
 ## Run DSNN 
 
