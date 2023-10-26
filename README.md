@@ -12,6 +12,9 @@ WIP implementation of a discriminator-guided diffusion model for molecule genera
 
 ## Run DSNN 
 
+### On Colab
+You can run the notebook on Google Colab after installing some packags. 
+
 ### Locally
 
 You can run DSNN locally using _main.ipynb_. First, install Anaconda, then create an environment with the Python dependencies (tested on _OS X_):
