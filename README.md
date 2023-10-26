@@ -1,5 +1,5 @@
 # MoleculeDiffusionGAN
-![alt text](method.jpg "Overview")
+<img src="method.jpg" alt="alt text" title="Overview" width="300"/>
 WIP implementation of a discriminator-guided diffusion model for molecule generation. 
 
 
