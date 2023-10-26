@@ -4,7 +4,7 @@
 </div>
 WIP implementation of a discriminator-guided diffusion model for molecule generation. 
 
-This repository provides a proof-of-concept implementation for the manuscript _[Discriminator-Driven Diffusion Mechanisms for Molecular Graph Generation](https://github.com/gerritgr/MoleculeDiffusionGAN/blob/main/Discriminator_Guided_Diffusion_for_Molecule_Generation.pdf)_.
+This repository provides a proof-of-concept implementation for the manuscript _[Discriminator-Driven Diffusion Mechanisms for Molecular Graph Generation](https://github.com/gerritgr/MoleculeDiffusionGAN/blob/7ab10be61fc1a85309c7145db4485702f7f54cff/Discriminator_Guided_Diffusion_for_Molecule_Generation.pdf)_.
 
 
 
