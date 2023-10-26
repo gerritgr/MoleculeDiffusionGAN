@@ -1,10 +1,10 @@
 # MoleculeDiffusionGAN
-<img src="method.jpg" alt="alt text" title="Overview" width="600"/>
+<img src="method.jpg" alt="alt text" title="Overview" width="700"/>
 WIP implementation of a discriminator-guided diffusion model for molecule generation. 
 
 
 ## Results
-![alt text](results.jpg "Results")
+<img src="results.jpg" alt="alt text" title="Overview" width="400"/>
 
 ## Run DSNN 
 
