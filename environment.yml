@@ -19,3 +19,4 @@ dependencies:
   - pandas=2.0.3
   - jupyterlab=3.6.3
   - wandb=0.15.11
+  - rdkit
