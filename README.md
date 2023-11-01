@@ -13,7 +13,7 @@ This repository provides a proof-of-concept implementation for the manuscript _[
 <img src="results.jpg" alt="alt text" title="Overview" width="400"/>
 </div>
 
-## Run DSNN 
+## Run MoleculeDiffusionGAN 
 
 ### On Colab
 You can run the _main.ipynb_ on Google Colab following [this URL](https://colab.research.google.com/github/gerritgr/MoleculeDiffusionGAN/blob/main/main.ipynb). 
