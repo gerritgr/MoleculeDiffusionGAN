@@ -27,7 +27,7 @@ conda env create -f environment.yml -n moldiffgan
 conda activate moldiffgan
 jupyter lab
 ```
-Then just run the notebook(s) from start to finish. 
+Then just run the notebook from start to finish. 
 
 ### Via Docker
 Install docker and then:
@@ -35,4 +35,8 @@ Install docker and then:
 docker pull gerritgr/moleculediffusiongan:latest
 docker run -p 8888:8888 gerritgr/moleculediffusiongan:latest
 ```
-You need to manually copy the URL to your browser, navigate to the notebook, and activate the _moldiffgan_ kernel (`Kernel -> Change Kernel...`). 
+Next:
+1) Manually copy the URL to your browser (if other instances of jupyter lab are running, this can lead  to problems).
+2) Navigate to the notebook
+3) Activate the _moldiffgan_ kernel (Kernel -> Change Kernel -> select _moldiffgan_).
+4) Run _main.ipynb_ from start to finish. 
