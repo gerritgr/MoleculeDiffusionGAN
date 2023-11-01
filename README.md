@@ -16,7 +16,7 @@ This repository provides a proof-of-concept implementation for the manuscript _[
 ## Run DSNN 
 
 ### On Colab
-You can run the notebook on Google Colab after installing some packags. 
+You can run the _main.ipynb_ on Google Colab following [this URL](https://colab.research.google.com/github/gerritgr/MoleculeDiffusionGAN/blob/main/main.ipynb). 
 
 ### Locally
 
