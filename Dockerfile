@@ -12,5 +12,4 @@ RUN mamba clean -ya
 RUN conda env export --name moldiffgan > environment_export.yml.txt # txt filending makes sure it is uploaded to wandb
 RUN conda env export --name moldiffgan
 
-RUN jupyter nbconvert --to script "moleculediffusiongan/main.ipynb" --output "moleculediffusiongan/main.py"
-
+RUN cd moleculediffusiongan/ && jupyter nbconvert --to python main.ipynb 
